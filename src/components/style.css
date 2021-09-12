@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+    justify-content: space-between;
+    background-color: aliceblue;
+
+}
+.black{
+    color: black;
+}
+
+.footerdiv{
+    background:rgb(rgb(22, 19, 34), green, blue);
+}
+.headerdiv {
+    justify-content: center;
+    text-align: center;
+}
+.formdiv{
+    text-align: center;
+}
+.navbarmain{
+    text-align: center;
+    margin-left: 15rem;
+}
+.navbar-brand{
+    justify-content: center !important;
+    text-align: center !important;
+}
